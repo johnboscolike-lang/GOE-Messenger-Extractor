@@ -1,0 +1,7 @@
+# GOE Messenger Extractor 의존성
+pycryptodome
+customtkinter
+Pillow
+
+# 파일을 Markdown으로 변환 (https://github.com/microsoft/markitdown)
+markitdown[all]
